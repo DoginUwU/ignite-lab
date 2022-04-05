@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "ignite-lab-backend-purchases"
+		},
+		{
+			"path": "ignite-lab-backend-classroom"
+		},
+		{
+			"path": "ignite-lab-frontend"
+		}
+	],
+	"settings": {}
+}

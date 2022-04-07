@@ -27,6 +27,6 @@ export class EnrollmentsResolver {
 
   @ResolveField()
   course(@Parent() enrollment: Enrollment) {
-    return this.coursesService.getAllCourseById(enrollment.courseId);
+    return this.coursesService.getCourseById(enrollment.courseId);
   }
 }

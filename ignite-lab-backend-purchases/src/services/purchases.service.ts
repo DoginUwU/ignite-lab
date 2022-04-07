@@ -58,7 +58,7 @@ export class PurchasesService {
       },
       product: {
         id: product.id,
-        title: product.id,
+        title: product.title,
         slug: product.slug,
       },
     });

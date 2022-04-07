@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "ignite-lab-frontend"
+		},
+		{
+			"path": "ignite-lab-gateway"
 		}
 	],
 	"settings": {}
